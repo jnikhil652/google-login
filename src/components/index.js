@@ -1,2 +1,2 @@
-import Button from "./Button";
-export { Button };
+import GoogleLogin from "./GoogleLogin";
+export default GoogleLogin;
